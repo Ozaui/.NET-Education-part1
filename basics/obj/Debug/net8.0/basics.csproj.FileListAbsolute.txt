@@ -28,3 +28,4 @@ C:\Users\ASUS\Documents\GitHub\.NET-Education-part1\basics\obj\Debug\net8.0\refi
 C:\Users\ASUS\Documents\GitHub\.NET-Education-part1\basics\obj\Debug\net8.0\basics.pdb
 C:\Users\ASUS\Documents\GitHub\.NET-Education-part1\basics\obj\Debug\net8.0\basics.genruntimeconfig.cache
 C:\Users\ASUS\Documents\GitHub\.NET-Education-part1\basics\obj\Debug\net8.0\ref\basics.dll
+C:\Users\ASUS\Documents\GitHub\.NET-Education-part1\basics\obj\Debug\net8.0\basics.sourcelink.json
